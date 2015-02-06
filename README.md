@@ -1,3 +1,3 @@
 # hello-world
 
-This si where I say hello to you all!
+This is where I say hello to you all!
